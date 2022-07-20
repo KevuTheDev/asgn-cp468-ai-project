@@ -1,8 +1,8 @@
 # CP 468 Project | Penguins 
 
 ## Authors
-Tommy Odetunde
-[Kevin He](www.github.com/kevuthedev)
+- Tommy Odetunde
+- [Kevin He](www.github.com/kevuthedev)
 
 ## Description
 This is a group project to generate a machine learning model to help us classify between three species of penguins: Adélie, Chinstrap and Gentoo. 
