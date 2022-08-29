@@ -1,4 +1,4 @@
-# CP 468 Project | Penguins
+# Penguin Prediction System | CP 468 Artificial Intelligence
 
 ## Authors
 
@@ -8,6 +8,10 @@
 ## Description
 
 This is a group project to generate a machine learning model to help us classify between three species of penguins: Adélie, Chinstrap and Gentoo.
+
+## Purpose
+
+This is a course project for **CP 468 Artifical Intelligence**, at **Wilfrid Laurier University**.
 
 ## Algorithms Used
 
