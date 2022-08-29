@@ -3,7 +3,7 @@
 ## Authors
 
 - Tommy Odetunde
-- [Kevin He](www.github.com/kevuthedev)
+- [Kevin He](https://www.github.com/kevuthedev)
 
 ## Description
 
